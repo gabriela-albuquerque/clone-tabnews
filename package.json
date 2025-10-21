@@ -1,0 +1,30 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Aprendendo desenvolvimento full stack com o curso.dev, construindo do zero um clone do TabNews e evoluindo com práticas reais do mercado.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [
+    "[",
+    "\"tabnews\"",
+    "\"clone-tabnews\"",
+    "\"curso.dev\"",
+    "\"filipe-deschamps\"",
+    "\"fullstack\"",
+    "\"nodejs\"",
+    "\"nextjs\"",
+    "\"react\"",
+    "\"frontend\"",
+    "\"backend\"",
+    "\"javascript\"]"
+  ],
+  "author": "gabriela-albuquerque",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
